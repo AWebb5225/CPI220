@@ -43,11 +43,13 @@ public class MazeExplorer {
     /*
      * Convert a cell (x,y) to an integer vertex index in the Graph
      */
-	 /*
+
 	public static int xyToV(int n, int x, int y) {
-		TO DO
+		while (int i = 0; i < n; i++) {
+
+        }
 	}
-	*/
+
 
     /*
      * Convert a integer vertex index in the Graph to a (x,y) in the cell
